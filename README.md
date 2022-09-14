@@ -24,11 +24,12 @@ Sayan</a></h1>
 
 - 📄 Know about my experiences <a href="www.g2_ahri.artstation.com/" target="blank">Resume</a>
 <br/>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
