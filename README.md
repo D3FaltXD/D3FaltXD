@@ -25,7 +25,7 @@ Sayan</a></h1>
 - 📄 Know about my experiences <a href="www.g2_ahri.artstation.com/" target="blank">Resume</a>
 <br/>
 
-<center>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)</center> 
+<center> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)  </center> 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
