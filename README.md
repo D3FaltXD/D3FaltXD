@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 
-Sayan</a></h1>
+<h3 align="center">heyo, I'm 
+	<h1><b>Sayan</b></h1></h3>
 <h3 align="center">I am a Graphics Designer and a Cyber Security student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
