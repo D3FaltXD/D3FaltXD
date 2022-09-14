@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **kalistoroy619@gmail.com**
 
-- 📄 Know about my experiences <a href="www.g2_ahri.artstation.com/" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf" target="blank">Resume</a>
 <br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
