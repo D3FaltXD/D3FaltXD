@@ -7,7 +7,7 @@ Sayan</a></h1>
 <p align="left"> <a href="https://twitter.com/G2Ahri" target="blank"><img src="https://img.shields.io/twitter/follow/G2Ahri?label=G2%20AHRI&style=social" alt="G2 AHRI" /></a> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 </a>
 
 - 🔭 I’m currently studying at <a href="https://www.lpu.in/" target="blank">Lovely Professional University</a>
