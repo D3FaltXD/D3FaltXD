@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 
 Sayan</a></h1>
-<h3 align="center">I am a Graphics Designer and a Cyber Security student &#127470;&#127475</h3>
+<h3 align="center">I am a Graphics Designer and a Cyber Security student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -28,7 +28,8 @@ Sayan</a></h1>
 
 <p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) 
+<div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD">
