@@ -53,3 +53,21 @@
 <img align="right" src="https://github.com/D3FaltXD/D3FaltXD/blob/d6833287e906512ed4a9f33b4423097de96b85ff/Images/right%203.png"> </p>
 </div>
 </div>
+<h1 align="center"><strong> Connect with me </h1></strong>
+
+<p align="center">
+
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/d3faltxd/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
