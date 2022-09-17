@@ -33,13 +33,19 @@
 <br><br>
 <div>
 <br><br><br><br><br><br>
-<p><h1>S T A T S </h1></p>
+<p><h1><strong>S T A T S</strong> </h1></p>
 
 ![D3FALTXD's STATS](https://github-readme-stats.vercel.app/api?username=D3FaltXD&show_icons=true&theme=radical)
 <img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
 <div>
 <br> <br><br><br> <br><br>
-<p><h1 align="center"> T O O L S</h1>
+<p><h1 align="center"> <strong>T O O L S</strong></h1>
 <img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png"></p></div>
+<div>
+<br> <br><br><br> <br><br>
+<p align = "right"><h1><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
 
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=false)]]
 
+<img align="right" src="https://github.com/D3FaltXD/D3FaltXD/blob/d6833287e906512ed4a9f33b4423097de96b85ff/Images/right%203.png">
+</div>
