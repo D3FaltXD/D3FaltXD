@@ -1,4 +1,4 @@
-<p font-size: 64px; font-weight: 700; line-height: 77px; top: 185px; left: 102px;>Hello</p>
+<h1 font-size: 64px; font-weight: 700; line-height: 77px; top: 185px; left: 102px;>Hello</h1>
 <h3 align="center">I am a Graphics Designer and a Cyber Security student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
