@@ -12,9 +12,10 @@
 </p>
 <p>
 <br> <br>
-<div align="left">
-<img src="https://github.com/D3FaltXD/D3FaltXD/blob/393d40d3d54282dbc54742aa20df06f7b9a8ef7a/Images/left%20img%201.png">
- </div>
- <div align="right">hello hello
+<div>
+<img align="left" src="https://github.com/D3FaltXD/D3FaltXD/blob/393d40d3d54282dbc54742aa20df06f7b9a8ef7a/Images/left%20img%201.png">
+
+ <p align="right">hello hello</p>
 </div>
 </p>
+
