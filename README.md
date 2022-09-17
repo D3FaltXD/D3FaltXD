@@ -40,7 +40,7 @@
 <img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
 </div>
 </div>
-<br> <br><br><br> <br><br>
+
 <p><h1 align="center"> <strong>T O O L S</strong></h1>
 <img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png"></p></div>
 <div>
