@@ -11,12 +11,18 @@
 <img align="right" width= "471px"
 height=" 349" left= "649"top="185" src="https://github.com/D3FaltXD/D3FaltXD/blob/1113ede8f1c89b787f60713c6e07a1a6eb0a10fc/Images/image%2014.png">
 </p>
+<br>
+<br>
 <div align="left">
   <img src="https://github.com/D3FaltXD/D3FaltXD/blob/b8f7d2c3f5331afb3d86b54b58a966df926dba16/Images/image%208.png" alt="Snow">
 </div> 
+<br>
+<br>
 <div align="left">
   <img src="https://github.com/D3FaltXD/D3FaltXD/blob/9a84a214b8f50f8d787947829ffdf4bb49f4df12/Images/image%209.png" alt="Snow">
 </div>
+<br>
+<br>
 <div align="left">
   <img src="https://github.com/D3FaltXD/D3FaltXD/blob/9a84a214b8f50f8d787947829ffdf4bb49f4df12/Images/image%2010.png" alt="Snow">
 </div>
