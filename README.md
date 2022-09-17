@@ -32,6 +32,11 @@
 </p>
 <br><br>
 <div>
-<h1 align="center"> T O O L S</h1>
-<img src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png">
-</div>
+<p><h1>S T A T S </h1></p>
+
+![D3FALTXD's STATS](https://github-readme-stats.vercel.app/api?username=D3FaltXD&show_icons=true&theme=tokyonight)
+<img src=https://github.com/D3FaltXD/D3FaltXD/blob/f7bbc4c740c863c701588d4fd889ac4a9fda5759/Images/img%20right%201.png align="right">
+<br> <br><br>
+<div>
+<p><h1 align="center"> T O O L S</h1>
+<img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png"></p></div>
