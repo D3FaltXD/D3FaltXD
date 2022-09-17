@@ -12,4 +12,8 @@
 height=" 349" left= "649"top="185" src="https://github.com/D3FaltXD/D3FaltXD/blob/1113ede8f1c89b787f60713c6e07a1a6eb0a10fc/Images/image%2014.png">
 </p>
 
-<div align="left"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/b8f7d2c3f5331afb3d86b54b58a966df926dba16/Images/image%208.png"></div>
+ <div class="container" align="left">
+  <img src="img_snow_wide.jpg" alt="Snow" style="width:100%;">
+  <div class="bottom-left">THE ART CHALLENGES</div>
+</div> 
+
