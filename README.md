@@ -2,9 +2,16 @@
 <h3><strong>こんにちは世界</strong></h3>
 
 
-<p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png">
-
-<p align="left"> <a href="https://twitter.com/G2Ahri" target="blank"><img src="https://img.shields.io/twitter/follow/G2Ahri?label=G2%20AHRI&style=social" alt="G2 AHRI" /></a> </p>
+<p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png"></p>
+<p>
+<emphasis>T E C H &nbsp; A N D &nbsp;  T H E&nbsp;  A R TS.
+<br> G E E K  &nbsp; O F &nbsp; C Y B E R &nbsp; S E C U RI T Y.
+<br> G R A P H I C &nbsp;  A R T I S T.</emphasis>
+<img align="right" width: 471px;
+height=" 349"
+left= "649"
+top="185" src="https://github.com/D3FaltXD/D3FaltXD/blob/1113ede8f1c89b787f60713c6e07a1a6eb0a10fc/Images/image%2014.png">
+</p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
