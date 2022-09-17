@@ -45,7 +45,7 @@
 <p><h1 align="left"> <strong>T O O L S</strong></h1>
 <img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png"></p></div>
 <div>
-<br> <br><br><br> <br><br>
+<br> <br><br><br>
 <p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
 <p align="left" >
 <div style="margin-left: 100px;">
