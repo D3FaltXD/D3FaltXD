@@ -60,16 +60,16 @@
 <p align="center">
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
-			<img src="https://github.com/D3FaltXD/D3FaltXD/blob/5162a9a0347bd49f20a1382b107444ceec8a6c53/Images/linked.png"></a>
+ <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD">
-		<img src="https://github.com/D3FaltXD/D3FaltXD/blob/5162a9a0347bd49f20a1382b107444ceec8a6c53/Images/github.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/d3faltxd/">
-			<img src="https://github.com/D3FaltXD/D3FaltXD/blob/5162a9a0347bd49f20a1382b107444ceec8a6c53/Images/insta.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
-			<img src="https://github.com/D3FaltXD/D3FaltXD/blob/5162a9a0347bd49f20a1382b107444ceec8a6c53/Images/twitter.png" ></a>
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">
-					<img src="https://github.com/D3FaltXD/D3FaltXD/blob/5162a9a0347bd49f20a1382b107444ceec8a6c53/Images/resume.png" ></a>
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
 </p>
