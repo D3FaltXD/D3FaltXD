@@ -15,11 +15,9 @@
 <div>
 <img align="left" src="https://github.com/D3FaltXD/D3FaltXD/blob/393d40d3d54282dbc54742aa20df06f7b9a8ef7a/Images/left%20img%201.png">
 
- <p align="right">- 🔭 I’m currently studying at <a href="https://www.lpu.in/" target="blank">Lovely Professional University</a>
+ <p align="right">
 
 - pursuing a bachelor's degree in computer science. 26th batch of Cyber Security (Hons) graduates
-
-- I'm open to freelance work.
 
 - I'm studying Python and C++ right now for <a href="https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series" target="blank">140 DSA Lec</a>
 
@@ -30,3 +28,6 @@
 - Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf" target="blank">Resume</a></p>
 </div>
 </p>
+<br><br>
+<h1 align="center"> T O O L S</h1>
+<img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png">
