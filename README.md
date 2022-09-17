@@ -44,8 +44,10 @@
 <div>
 <br> <br><br><br> <br><br>
 <p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
-<p align="left">
+<p align="left" >
+<div style="margin-left: 100px;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=idqfn88p4khb76ky8ouqdkhc8&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img align="right" src="https://github.com/D3FaltXD/D3FaltXD/blob/d6833287e906512ed4a9f33b4423097de96b85ff/Images/right%203.png"> </p>
+</div>
 </div>
