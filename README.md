@@ -21,6 +21,8 @@
 
 - I'm studying Python and C++ right now for <a href="https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series" target="blank">140 DSA Lec</a>
 
+- I'm open to freelance work.
+
 - Let's talk about **Graphics Design**
 
 - How to contact me  **kalistoroy619@gmail.com**
@@ -29,5 +31,7 @@
 </div>
 </p>
 <br><br>
+<div>
 <h1 align="center"> T O O L S</h1>
-<img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png">
+<img src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png">
+</div>
