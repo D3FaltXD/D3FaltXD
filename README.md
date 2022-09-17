@@ -1,7 +1,8 @@
-<h1 font-size: 64px; font-weight: 700; line-height: 77px; top: 185px; left: 102px;>H E L L O</h1>
-<h3 align="center">こんにちは世界</h3>
+<h1><strong>H E L L O</strong></h1>
+<h3><strong>こんにちは世界</strong></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+<p aligh="right"><img src="https://github.com/D3FaltXD/D3FaltXD/blob/e27f915259c4fafdad8c18994dbd49d31d897960/Images/image%207.png">
 
 <p align="left"> <a href="https://twitter.com/G2Ahri" target="blank"><img src="https://img.shields.io/twitter/follow/G2Ahri?label=G2%20AHRI&style=social" alt="G2 AHRI" /></a> </p>
 
