@@ -37,8 +37,10 @@
 <div align="left">
 
 ![D3FALTXD's STATS](https://github-readme-stats.vercel.app/api?username=D3FaltXD&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3FaltXD&theme=radical)
-</div>
+	<div align="right">
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3FaltXD&theme=radical)
+	</div>
+	</div>
 </div>
 
 <p><h1 align="left"> <strong>T O O L S</strong></h1>
