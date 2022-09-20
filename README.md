@@ -29,7 +29,6 @@
 
 - Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf" target="blank">Resume</a></p>
 </div>
-</p>
 <br><br>
 <div>
 <br><br><br><br><br><br>
