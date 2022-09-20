@@ -35,12 +35,13 @@
 <p><h1><strong>S T A T S</strong> </h1></p>
 <div align="left">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
+
+![D3FALTXD's STATS](https://github-readme-stats.vercel.app/api?username=D3FaltXD&show_icons=true&theme=radical)
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3FaltXD&theme=radical)
+	
+</div>
+
 <p><h1 align="left"> <strong>T O O L S</strong></h1>
 <img width="100%" src="https://github.com/D3FaltXD/D3FaltXD/blob/f2ad32c1dcdb414cd838c42540e6aa0734b4efd0/Images/tools.png"></p></div>
 <div>
